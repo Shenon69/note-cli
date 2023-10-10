@@ -1,3 +1,17 @@
 {
-    "notes":[]
+  "notes": [
+    {
+      "tags": [
+        "work",
+        " serious"
+      ],
+      "id": 1696858790611,
+      "content": "clean my room"
+    },
+    {
+      "tags": [],
+      "id": 1696858806003,
+      "content": "walk my dog"
+    }
+  ]
 }
