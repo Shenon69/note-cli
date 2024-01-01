@@ -1,6 +1,6 @@
 # note-cli
 
-> a simplle cli to save notes and view them in the browser
+> a simplle command line interface to save notes and view them in the browser
 
 Commands: <br />
 `note new <note>` - create a new note <br />
